@@ -1,0 +1,45 @@
+.cart{
+  margin-top: 50px;
+}
+.offers
+{
+  border:1px solid silver ;
+  border-radius: 2%;
+  border-left: 3px solid #14cda8;
+  padding: 10px;
+}
+.offers p
+{
+  color:#14cda8;
+  text-decoration: underline;
+}
+.heading{
+  display: inline-flex;
+  margin: 30px 0 30px 0;
+}
+.products{
+  border:1px solid silver ;
+  border-radius: 2%;
+  margin-bottom: 20px;
+}
+.products .col-3
+{
+  padding-left: 0%;
+}
+.buttons{
+display: inline-flex;
+}
+.buttons p{
+  font-weight: 700;
+  padding: 0 15px 0 15px;
+  }
+.cartCalculation
+{
+  border-left: 1px solid silver;
+  margin-left: 50px;
+  height: 600px;
+}
+.right{
+  margin-left: 0%;
+  float: right;
+}

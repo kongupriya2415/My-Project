@@ -1,0 +1,9 @@
+.slick img{
+    height: 100%;
+    width: 100%;
+}
+.slick{
+    width: 98%;
+    padding: 10px;
+    background-color:lavenderblush;
+}

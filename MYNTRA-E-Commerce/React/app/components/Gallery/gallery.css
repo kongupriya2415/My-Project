@@ -1,0 +1,25 @@
+.gallery img{
+    height: 100%;
+    width: 100%;
+}
+.gallery .container-fluid{
+    margin-top: 50px;
+}
+.gallery .card { 
+    margin: 10px 30px 40px 20px;
+    padding: 0;
+    height: 400px;
+    background-color: hotpink;
+}
+.gallery .card{
+    padding: 0;
+    background-color: hotpink;
+}
+.gallery .heading{
+    margin:30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.gallery .card:hover{
+    opacity: 0.5;
+    background-color: yellow;
+}

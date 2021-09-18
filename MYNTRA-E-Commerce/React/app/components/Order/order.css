@@ -1,0 +1,29 @@
+.order{
+    border:1px dotted silver;
+    padding: 20px;
+    border-radius: 5px;
+    color: grey;
+    margin-bottom: 30px;
+    height: 270px;
+
+}
+.order img{
+    border-radius: 3px;
+}
+.margin{
+    border-right: 1px solid silver;
+}
+.sideNav{
+    font-size: 15px;
+    color: rgb(148, 147, 147);
+}
+.sideNav p{
+    margin-bottom: 8px;
+
+}
+.orderDetails{
+    margin-top: 50px;
+}
+.orderDetails p{
+    margin-bottom: 2px;
+}

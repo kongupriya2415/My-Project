@@ -1,0 +1,24 @@
+.address{
+    margin-top: 50px;
+}
+.details{
+    border-left: 1px solid silver;
+    padding-left: 30px;
+}
+.addressDetails{
+    height: 250px;
+    margin: 10px ;
+    padding :20px;
+    
+}
+.newAddress{
+    height: 250px;
+    padding-top: 70px;
+    margin: 10px ;
+
+}
+.custom-control-input:checked ~ .custom-control-label::before {
+    color: #fff;
+    border-color: #14cda8;
+    background-color: #14cda8;
+}

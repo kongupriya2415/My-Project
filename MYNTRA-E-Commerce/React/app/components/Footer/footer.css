@@ -1,0 +1,28 @@
+.jumbotron{
+        background:pink;
+}
+.icon{
+    height: 30px;
+width: 30px;
+padding: 5px;
+}
+.play, .ios{
+    height: 50px;
+    width: 120px;
+    padding: 5px;
+}
+.icons{
+    height: 50px;
+    width: 50px;
+    padding: 5px;
+}
+a{
+    color: #696B79;
+    display: block;
+    font-size: 15px;
+    text-decoration: none;
+    padding-bottom: 5px;
+    cursor: pointer;
+    line-height: normal;
+
+}

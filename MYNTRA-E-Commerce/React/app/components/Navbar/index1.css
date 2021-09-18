@@ -1,0 +1,194 @@
+
+.logo
+{
+    height:45px ;
+    width:45px ;
+    margin-left: 80px;
+    margin-right: 50px;
+}
+.navbar{
+  box-shadow: 0 4px 12px 0 rgba(0, 0, 0, 0.05);
+  background-color: pink;
+}
+.searchicon
+{
+    height:20px ;
+    width:20px ;
+}
+/* Search */
+ .search {
+  padding-left: 60px;
+  width: 450px;
+  margin-top: 11px;
+}
+ .search input {
+  border-left: none;
+  float: left;
+  font-size: 14px;
+  color: #696E79;
+  background-color: #F5F5F6;
+  border: 1px solid #F5F5F6;
+  height: 40px;
+}
+
+ .form-control:focus {
+  color: #495057;
+  background-color: #F5F5F6;
+  border-color: #F5F5F6;
+  outline: 0;
+  box-shadow: none;
+}
+
+ .btn:focus {
+  color: #495057;
+  background-color: #F5F5F6;
+  border-color: #F5F5F6;
+  outline: 0;
+  box-shadow: none;
+}
+ .btn:active
+{
+  border-color: #F5F5F6;
+    box-shadow: none;
+    outline: 0;
+    outline-color: white;
+}
+
+ .btn:hover {
+  cursor: auto;
+}
+
+ .btn:focus {
+  outline-color: none;
+  outline-offset: none;
+}
+
+ button :focus {
+  outline: none;
+}
+
+ .search button { 
+  border-right: none;
+  float: left;
+  font-size: 14px;
+  color: #696E79;
+  border: 1px solid #F5F5F6;
+  background-color: #F5F5F6;
+  height: 40px;
+}
+
+.search :focus {
+  background-color: white;
+}
+ .search:focus .search-button {
+  background-color: white;
+}
+
+.dropdown{
+  position: static;
+  padding-top: 10px;
+}
+.dropdown:hover .dropdown-menu{
+  width: 1150px;
+  height: 400px;
+  display: inline-block;
+  margin-left: 100px;
+  line-height: 10px;
+  font-size: 13px;
+}
+.menh{
+  color: #ee5f73;
+  font-weight: 640;
+}
+.womenh{
+  font-weight: 640;
+  color: #fb56c1;
+}
+.kidsh{
+  font-weight: 640;
+  color:#f26a10;
+}
+.homeh{
+  font-weight: 640;
+  color: #f2c210;
+}
+.discoverh{
+  font-weight: 640;
+color: #0db7af;
+}
+.men{
+  border-bottom: 5px solid transparent;
+}
+.men:hover 
+{
+  color: grey;
+  border-bottom: 5px solid #ee5f73;
+}
+.women:hover{
+  color: grey;
+  border-bottom: 5px solid #fb56c1;
+}
+.kids:hover{
+  color: grey;
+  border-bottom: 5px solid #f26a10;
+}
+.home:hover{
+  color: grey;
+  border-bottom: 5px solid #f2c210;
+}
+.discover:hover{
+  color: grey;
+  border-bottom: 5px solid #0db7af;
+}
+.even{
+  background-color: rgb(233, 232, 232);
+}
+.link1{
+ padding: 3px;
+ font-size: 15px;
+ font-weight: 500;
+ padding-bottom: 18px;
+}
+
+ .profile:hover .profileCard{
+   display: block;
+   z-index: 1;
+ }
+ .profileCard{
+   display: none;
+   position: absolute;
+   left:1000px;
+   top:90px;
+   line-height: 1px;
+   width: 290px;
+ }
+ .profileCard .button{
+   display: flex;
+ }
+ 
+ .profileCard  Button, .profileCard  Button{
+  color: red;
+  font-weight: bold;
+  width: 100px;
+  border-color: rgb(226, 226, 226);
+  margin: 10px;
+ }
+ .profileCard Button:hover,  .profileCard Link Button:hover{
+  color: red;
+  border: 1px solid red;
+  background-color: white;
+ }
+ .profileCard CardLink{
+   margin-bottom: 9px;
+ }
+ .profileCard  a:hover{
+color: #696B79;
+ }
+.logos{
+  display: flex;
+  margin-left: 30px;
+}
+.profile, .wishlist, .bag{
+  padding: 15px;
+  font-size: 11px;
+}
